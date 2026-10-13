@@ -1,0 +1,8 @@
+/build*/
+/out/
+/.vs/
+/.deps/
+/results/
+/example_run.csv
+__pycache__/
+*.pyc
